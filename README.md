@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yordanos-dereje.netlify.app](https://yordanos-dereje.netlify.app)
 
-- 💬 Ask me about **reactjs, django, MERN, micro-servicess**
+- 💬 Ask me about **reactjs, django, MERN, micro-services**
 
 - 📫 How to reach me **jordanoswork2021@gmail.com**
 
