@@ -1,7 +1,5 @@
 ## Overview
 
-- 👨‍💻 All of my projects are available [here](https://yordanos-dereje.netlify.app).
-
 - 💬 Ask me about **Reactjs, Django, MERN, micro-services, System design**.
 
 - 📫 How to reach me **jordanoswork2021@gmail.com**.
