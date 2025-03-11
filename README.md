@@ -1,6 +1,6 @@
 ## Overview
 
-- 💬 Ask me about **Reactjs, Django, MERN, micro-services, System design**.
+- 💬 Ask me about **Django, Reactjs, NestJs, MERN, micro-services, System design**.
 
 - 📫 How to reach me **jordanoswork2021@gmail.com**.
 
