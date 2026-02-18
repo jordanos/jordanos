@@ -1,6 +1,6 @@
 ## Overview
 
-- 💬 Ask me about **Django, Voice AI, LLMs, Reactjs, NestJs, MERN, micro-services, System design**.
+- 💬 Ask me about **Django, Voice AI, LLMs, Reactjs, NestJs, MERN, Micro-services, System design**.
 
 - 📫 How to reach me **jordanoswork2021@gmail.com**.
 
